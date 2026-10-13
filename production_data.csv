@@ -1,0 +1,11 @@
+Reading,Conveyor Speed,Motor Temperature,Motor Current,Status,Fault Diagnosis
+1,1.46,44.58,2.03,Normal,None
+2,1.55,43.79,1.9,Normal,None
+3,1.59,43.65,1.79,Normal,None
+4,1.55,43.94,1.82,Normal,None
+5,1.57,52,2.8,Warning,High Temperature and Current
+6,1.48,52.45,2.65,Warning,High Temperature and Current
+7,1.38,52,2.76,Warning,High Temperature and Current
+8,1.36,51.99,2.68,Warning,High Temperature and Current
+9,1.45,51.44,2.8,Warning,High Temperature and Current
+10,1.36,51.01,2.81,Warning,High Temperature and Current
